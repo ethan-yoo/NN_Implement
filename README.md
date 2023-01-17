@@ -1,2 +1,4 @@
-# NN_Implement_Torch
-Neural Nets' implementations with Pytorch
+# NN_Implement_List
+|Paper|Code
+|-|-
+Collaborative Filtering for Implicit Feedback Datasets | Alternating Least Square (ALS)()
